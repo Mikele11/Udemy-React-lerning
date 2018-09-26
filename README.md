@@ -40,6 +40,8 @@
 
 [add key to list](https://github.com/Mikele11/Udemy-React-lerning/commit/ba17f8deab942f4a25570e14a1590780c224824f) -add key to list
 
+[fix changed handler](https://github.com/Mikele11/Udemy-React-lerning/commit/a210ecfcb7b41e78d32663f281eb3df8e4a03f3a) -fix changed handler
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
