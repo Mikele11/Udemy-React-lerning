@@ -30,6 +30,8 @@
 
 [add conditional render](https://github.com/Mikele11/Udemy-React-lerning/commit/1e271e3c600ac9fddbf59ec32205766fb471fea0) -add conditional render
 
+[add dynamic content](https://github.com/Mikele11/Udemy-React-lerning/commit/536e592463151d6e35bb595febda2fa6103e9d20) -add dynamic content
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
