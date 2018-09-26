@@ -26,6 +26,8 @@
 
 [add css to Person ](https://github.com/Mikele11/Udemy-React-lerning/commit/ca21e2490e0472e77b15e52189c57ce1f71f0c66) -add css to Person
 
+[add inline style to button](https://github.com/Mikele11/Udemy-React-lerning/commit/5ac4d68fa42b6bb994dd5ede386040bd9f82d60c) -add inline style to button
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -38,7 +40,9 @@ I learned what a [children](#children) is
 
 I learned how to use [state](#state) for modifies data into a component
 
-I learned how to use [setState](#setState) for modifies data into a component 
+I learned how to use [setState](#setState) for modifies data into a component
+
+I learned how to use [inline](#inline) style in jsx
 
 ### Definitions
 
@@ -53,6 +57,8 @@ I learned how to use [setState](#setState) for modifies data into a component
 <a name="state"></a>State - The state is used to support and modify data in the component. The component that manipulates the data gets it from outside and when they are made with actions inside the component, they are written into the state and then manipulated by them. You can access the state through **this.state**. You can also make changes to the state by using **setState**, When using which redraws DOM
 
 <a name="setState"></a>setState - This is a function for changing a state that redraws changes to DOM
+
+<a name="inline"></a>Inline style - This is a description of the styles inside the component
 
 ## Questions
 
