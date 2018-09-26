@@ -36,6 +36,8 @@
 
 [add delete handler](https://github.com/Mikele11/Udemy-React-lerning/commit/c91ba25602461cc19400a6688233d8188f15b47b) -add delete Person handler 
 
+[immutable state](https://github.com/Mikele11/Udemy-React-lerning/commit/d5ad07b18be4069cac87961224a8c1589851c8ff) -change state to immutable state
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
