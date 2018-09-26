@@ -17,6 +17,8 @@
 
 [add handle button to Person](https://github.com/Mikele11/Udemy-React-lerning/commit/db66b04d220b1de40290659c138b9972b1477366) -add handle button to Person
 
+[add manipulate state](https://github.com/Mikele11/Udemy-React-lerning/commit/f3f32d230d87de89623131cd192aeac146ca0cd4) -add setState for changed state
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -29,6 +31,8 @@ I learned what a [children](#children) is
 
 I learned how to use [state](#state) for modifies data into a component
 
+I learned how to use [setState](#setState) for modifies data into a component 
+
 ### Definitions
 
 #### 25.09.2018 — react-complete-guide
@@ -40,6 +44,8 @@ I learned how to use [state](#state) for modifies data into a component
 <a name="children"></a>Children - This is data within in the component. In React, a component can have one or more children. Since this.props.children can have one element, several elements or nothing at all, its value is, respectively, one child node, an array of child nodes, or undefined
 
 <a name="state"></a>State - The state is used to support and modify data in the component. The component that manipulates the data gets it from outside and when they are made with actions inside the component, they are written into the state and then manipulated by them. You can access the state through **this.state**. You can also make changes to the state by using **setState**, When using which redraws DOM
+
+<a name="setState"></a>setState - This is a function for changing a state that redraws changes to DOM
 
 ## Questions
 
