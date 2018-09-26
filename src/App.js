@@ -40,8 +40,8 @@ class App extends Component {
         <p>This is really working!</p>
         <button onClick={() => this.switchNameHandler('Maximilian')}>Switch Name</button>
         <Person 
-        name={this.state.persons[0].name} 
-        age={this.state.persons[0].age} />
+          name={this.state.persons[0].name} 
+          age={this.state.persons[0].age} />
         <Person 
           name={this.state.persons[1].name} 
           age={this.state.persons[1].age} 
