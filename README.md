@@ -38,6 +38,8 @@
 
 [immutable state](https://github.com/Mikele11/Udemy-React-lerning/commit/d5ad07b18be4069cac87961224a8c1589851c8ff) -change state to immutable state
 
+[add key to list](https://github.com/Mikele11/Udemy-React-lerning/commit/ba17f8deab942f4a25570e14a1590780c224824f) -add key to list
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
