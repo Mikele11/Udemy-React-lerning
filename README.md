@@ -13,6 +13,8 @@
 
 [add children to Person](https://github.com/Mikele11/Udemy-React-lerning/commit/c2058fb3d29ecc88c0152cbc4a7a86982a105d61) - add props.children to component Person
 
+[add state to Person](https://github.com/Mikele11/Udemy-React-lerning/commit/d8e0c55370bfbeee14500cb8e897d5020bc67a19) - add state to component Person
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -23,6 +25,8 @@ I learned how to use [props](#props) to transfer data to a component
 
 I learned what a [children](#children) is
 
+I learned how to use [state](#state) for modifies data into a component
+
 ### Definitions
 
 #### 25.09.2018 — react-complete-guide
@@ -32,6 +36,8 @@ I learned what a [children](#children) is
 <a name="props"></a>Props - props it is short from the property. Each component has its own properties and we can transfer data to these properties for each component and read this data in the component using **this.props**
 
 <a name="children"></a>Children - This is data within in the component. In React, a component can have one or more children. Since this.props.children can have one element, several elements or nothing at all, its value is, respectively, one child node, an array of child nodes, or undefined
+
+<a name="state"></a>State - The state is used to support and modify data in the component. The component that manipulates the data gets it from outside and when they are made with actions inside the component, they are written into the state and then manipulated by them. You can access the state through **this.state**. You can also make changes to the state by using **setState**, When using which redraws DOM
 
 ## Questions
 
